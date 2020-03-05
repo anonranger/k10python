@@ -11,7 +11,7 @@ class Dog:
         else:
             print(self.name, "has No Fever.")
 
-# Create Objects and assign values to variables
+# create and assign object variables
 dog1_name = 'cupcake'
 dog1_temp = 100
 
